@@ -74,7 +74,7 @@
 
                         <li>
                             <a href="">
-                                Kontak
+                                Contact
                             </a>
                         </li>
                         <li>
@@ -84,7 +84,7 @@
                         </li>
                         <li>
                             <a href="">
-                                Lisensi
+                                Licenses
                             </a>
                         </li>
                     </ul>
@@ -92,7 +92,7 @@
                 <div class="copyright pull-right">
                     &copy;
                     <script>document.write(new Date().getFullYear())</script>
-                    , made with <i class="fa fa-heart heart"></i> by <a href="">Javed</a>
+                    , made with <i class="fa fa-heart heart"></i> by <a href="">YASTAAAAAAA (joved)</a>
                 </div>
             </div>
         </footer>
