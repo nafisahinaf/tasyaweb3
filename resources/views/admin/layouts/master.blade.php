@@ -50,8 +50,8 @@
                                 <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a href="#">Profile</a></li>
-                                <li><a href="{{ url('/admin/logout') }}">Logout</a></li>
+                                <li><a href="#">Profil</a></li>
+                                <li><a href="{{ url('/admin/logout') }}">Keluar</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -74,7 +74,7 @@
 
                         <li>
                             <a href="">
-                                Contact
+                                Kontak
                             </a>
                         </li>
                         <li>
@@ -84,7 +84,7 @@
                         </li>
                         <li>
                             <a href="">
-                                Licenses
+                                Lisensi
                             </a>
                         </li>
                     </ul>
